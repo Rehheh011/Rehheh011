@@ -4,7 +4,7 @@
 
 **Backend Developer • IoT Builder • Automation Enthusiast**
 
-*"Construindo APIs durante o dia e inventando projetos com ESP32, IA local e automação durante a noite."*
+*"Construindo APIs durante o dia e inventando projetos malucos durante a noite."*
 
 </div>
 
@@ -20,19 +20,26 @@ Hoje exploro bastante automação com **n8n**, modelos locais de IA, agentes aut
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 ---
 
 ## O que eu construo
 
-```text
-Sensores → ESP32 → Backend Python → IA Local → Automações → Resultado
+```mermaid
+flowchart LR
+    A[Dispositivos IoT] --> B[ESP32]
+    B --> C[RabbitMQ]
+    C --> D[Python / DRF]
+    D --> E[Redis & Celery]
+    E --> F[IA Local]
+    F --> G[n8n]
+    G --> H[Automação]
 ```
 
 Projetos que unem software, hardware e automação.
@@ -61,6 +68,54 @@ Embedded     ESP32 • Raspberry Pi • Arduino • C++ • MicroPython
 * Aplicativos mobile com Flutter
 * Agentes de IA e integrações inteligentes
 * Ferramentas criadas para resolver problemas reais
+
+## Projetos em Destaque
+
+<table>
+<tr>
+<td width="50%">
+
+### Guapó Cidadão
+Aplicativo mobile desenvolvido em Flutter para aproximar cidadãos dos serviços da prefeitura.
+
+**Stack**
+Flutter • Dart • Mobile
+
+</td>
+
+<td width="50%">
+
+### Sistema de Automação com IA
+Fluxos inteligentes utilizando n8n, LLMs locais e integrações entre APIs.
+
+**Stack**
+n8n • Ollama • Python
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Estação Meteorológica Inteligente
+Monitoramento ambiental com sensores, ESP32 e previsão baseada em IA.
+
+**Stack**
+ESP32 • IoT • Python
+
+</td>
+
+<td width="50%">
+
+### Robótica Competitiva
+Robôs seguidores de linha e sumô autônomo para competições.
+
+**Stack**
+Arduino • C++ • Firmware
+
+</td>
+</tr>
+</table>
 
 ---
 
