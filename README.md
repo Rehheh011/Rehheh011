@@ -1,93 +1,84 @@
-# Fala Fellas, como estão? Eu sou o Renato!
+<div align="center">
 
-Sou desenvolvedor back-end, entusiasta de tecnologia e aquele tipo de pessoa que transforma qualquer ideia em projeto.
+# Renato David Soares de Oliveira
 
-Atualmente trabalho com **Python**, **Django REST Framework**, **Celery**, **Redis** e **Docker**, construindo APIs, automatizando processos e tentando deixar sistemas um pouco mais inteligentes a cada dia.
+**Back-end Developer • Embedded Systems Enthusiast • Automation Builder**
 
-Mas, se você me perguntar qual é minha área favorita, a resposta provavelmente será: **sistemas embarcados**.
+*"Se um processo pode ser automatizado, eu provavelmente já pensei em uma forma de fazer isso."*
 
-Desde Arduino até ESP32, passando por IoT, automação residencial, robótica e microeletrônica, eu adoro criar coisas que saem da tela e interagem com o mundo real.
-
----
-
-## 🚀 O que eu gosto de construir
-
-- APIs e sistemas back-end
-- Automações com n8n
-- Agentes de IA e fluxos inteligentes
-- Projetos de IoT
-- Automação residencial
-- Aplicativos mobile
-- Robótica e sistemas embarcados
-- Ferramentas para resolver problemas do dia a dia
+</div>
 
 ---
 
-## 🛠️ Tecnologias que fazem parte da minha rotina
+## Sobre mim
 
-### Back-end
-```python
-Python • Django • DRF • Celery • Redis
+Atualmente trabalho como desenvolvedor back-end utilizando **Python**, **Django REST Framework**, **Celery**, **Redis** e **Docker**, desenvolvendo APIs, automações e sistemas distribuídos.
+
+Embora minha carreira tenha seguido o caminho do desenvolvimento web, meu maior interesse sempre esteve em sistemas embarcados. Gosto de criar projetos que conectam software e hardware, explorando IoT, automação residencial, robótica e inteligência artificial aplicada ao mundo real.
+
+Nos últimos anos venho trabalhando com automações utilizando **n8n**, modelos locais de IA, agentes autônomos e integrações entre diferentes plataformas. Também desenvolvi aplicações mobile em Flutter, incluindo o projeto **Guapó Cidadão**, criado para aproximar a população dos serviços da prefeitura.
+
+---
+
+## Stack Principal
+
+```text
+Backend      Python • Django • DRF • Celery • Redis
+Infra        Docker • Linux • Git • Kubernetes
+Automation   n8n • APIs • Workflows • AI Agents
+AI           Ollama • LLMs Locais • RAG
+Mobile       Flutter • Dart
+Embedded     ESP32 • Arduino • C++ • MicroPython
 ```
 
-### Infraestrutura
-```bash
-Docker • Linux • Git
-```
+---
 
-### Mobile
-```dart
-Flutter • Dart
-```
+## Atualmente Explorando
 
-### Automação & IA
 ```yaml
-n8n • Ollama • IA Local • LLMs • Agentes
-```
-
-### Embarcados
-```cpp
-ESP32 • Arduino • C++ • MicroPython
-```
-
----
-
-## 📱 Alguns projetos que já passaram pelas minhas mãos
-
-### Guapó Cidadão
-Aplicativo desenvolvido em Flutter com foco em aproximar cidadãos e prefeitura através de serviços digitais.
-
-### Automações Inteligentes
-Fluxos automatizados utilizando n8n, integrações entre APIs e modelos locais de IA generativa.
-
-### IoT & Casa Inteligente
-Projetos pessoais envolvendo sensores, monitoramento ambiental, automação residencial e comunicação entre dispositivos.
-
-### Robótica
-Desenvolvimento de robôs seguidores de linha, sumô autônomo e outras experiências envolvendo hardware e firmware.
-
----
-
-## 🎯 Atualmente explorando
-
 - Inteligência Artificial Local
 - Agentes Autônomos
-- Kubernetes para aplicações de IoT
-- Arquiteturas distribuídas
-- Integração entre hardware e IA
-- Automação de negócios
+- Arquiteturas Distribuídas
+- Kubernetes para aplicações IoT
+- Automação Empresarial
+- Integração entre Hardware e IA
+```
 
 ---
 
-## ⚡ Curiosidades
+## Projetos que gosto de construir
 
-- 🎓 Formado em Redes de Computadores e cursando Análise e Desenvolvimento de Sistemas.
-- 🇺🇸 Inglês fluente.
-- 🏆 Medalhista de prata MOBFOG.
-- 🐱 Apaixonado por gatos.
-- 🔧 Gosto tanto de hardware quanto de software.
-- ☕ Tenho mais projetos iniciados do que tempo para terminar todos eles.
+* APIs e sistemas escaláveis
+* Plataformas de automação
+* Ferramentas para produtividade
+* Sistemas IoT
+* Automação residencial
+* Aplicações mobile
+* Robôs autônomos
+* Soluções que unem software e hardware
 
 ---
 
-> "Se dá para automatizar, provavelmente eu vou tentar automatizar."
+## Alguns fatos aleatórios
+
+* Formado em Redes de Computadores
+* Graduando em Análise e Desenvolvimento de Sistemas
+* Inglês fluente
+* Medalhista de prata na MOBFOG
+* Ex-professor particular de Arduino, C++ e Python
+* Apaixonado por tecnologia desde a a infância 
+* Tenho mais projetos iniciados do que projetos concluídos
+* Gatos costumam aparecer nos meus commits, direta ou indiretamente
+
+---
+
+## Filosofia
+
+```python
+while True:
+    aprender()
+    construir()
+    automatizar()
+```
+
+Porque a melhor forma de aprender uma tecnologia é encontrar um problema interessante e construir algo para resolvê-lo.
