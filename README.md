@@ -2,9 +2,9 @@
 
 # Renato David Soares de Oliveira
 
-**Back-end Developer • Embedded Systems Enthusiast • Automation Builder**
+**Backend Developer • IoT Builder • Automation Enthusiast**
 
-*"Se um processo pode ser automatizado, eu provavelmente já pensei em uma forma de fazer isso."*
+*"Construindo APIs durante o dia e inventando projetos com ESP32, IA local e automação durante a noite."*
 
 </div>
 
@@ -12,11 +12,21 @@
 
 ## Sobre mim
 
-Atualmente trabalho como desenvolvedor back-end utilizando **Python**, **Django REST Framework**, **Celery**, **Redis** e **Docker**, desenvolvendo APIs, automações e sistemas distribuídos.
+Sou desenvolvedor back-end com foco em **Python** e **Django REST Framework**, trabalhando diariamente com APIs, processamento assíncrono, automações e infraestrutura baseada em containers.
 
-Embora minha carreira tenha seguido o caminho do desenvolvimento web, meu maior interesse sempre esteve em sistemas embarcados. Gosto de criar projetos que conectam software e hardware, explorando IoT, automação residencial, robótica e inteligência artificial aplicada ao mundo real.
+Mas a verdade é que sempre fui atraído por projetos que misturam software e hardware. Desde os meus primeiros projetos com Arduino até aplicações mais complexas envolvendo IoT, robótica, visão computacional e inteligência artificial, gosto de construir sistemas que interagem com o mundo real.
 
-Nos últimos anos venho trabalhando com automações utilizando **n8n**, modelos locais de IA, agentes autônomos e integrações entre diferentes plataformas. Também desenvolvi aplicações mobile em Flutter, incluindo o projeto **Guapó Cidadão**, criado para aproximar a população dos serviços da prefeitura.
+Hoje exploro bastante automação com **n8n**, modelos locais de IA, agentes autônomos e arquiteturas distribuídas. Quando não estou desenvolvendo alguma API, provavelmente estou montando um novo projeto com ESP32, criando uma automação desnecessariamente complexa ou testando alguma tecnologia que achei interessante às 2 da manhã.
+
+---
+
+## O que eu construo
+
+```text
+Sensores → ESP32 → Backend Python → IA Local → Automações → Resultado
+```
+
+Projetos que unem software, hardware e automação.
 
 ---
 
@@ -28,57 +38,65 @@ Infra        Docker • Linux • Git • Kubernetes
 Automation   n8n • APIs • Workflows • AI Agents
 AI           Ollama • LLMs Locais • RAG
 Mobile       Flutter • Dart
-Embedded     ESP32 • RaspberryPi • Arduino • C++ • MicroPython
+Embedded     ESP32 • Raspberry Pi • Arduino • C++ • MicroPython
 ```
 
 ---
 
-## Atualmente Explorando
+## Projetos que me representam
+
+* Aplicações back-end escaláveis e automatizadas
+* Sistemas IoT e monitoramento remoto
+* Automação residencial
+* Robótica e sistemas embarcados
+* Aplicativos mobile com Flutter
+* Agentes de IA e integrações inteligentes
+* Ferramentas criadas para resolver problemas reais
+
+---
+
+## Atualmente explorando
 
 ```yaml
-- Inteligência Artificial Local
-- Agentes Autônomos
-- Arquiteturas Distribuídas
-- Kubernetes para aplicações IoT
-- Automação Empresarial
-- Integração entre Hardware e IA
+AI Local:
+  - Ollama
+  - Agentes Autônomos
+  - Fluxos Inteligentes
+
+IoT:
+  - Kubernetes para dispositivos
+  - RabbitMQ
+  - Arquiteturas distribuídas
+
+Automation:
+  - n8n
+  - Integrações empresariais
+  - Workflows orientados por IA
 ```
 
 ---
 
-## Projetos que gosto de construir
-
-* APIs e sistemas escaláveis
-* Plataformas de automação
-* Ferramentas para produtividade
-* Sistemas IoT
-* Automação residencial
-* Aplicações mobile
-* Robôs autônomos
-* Soluções que unem software e hardware
-
----
-
-## Alguns fatos aleatórios
+## Algumas coisas sobre mim
 
 * Formado em Redes de Computadores
 * Graduando em Análise e Desenvolvimento de Sistemas
 * Inglês fluente
 * Medalhista de prata na MOBFOG
-* Ex-professor particular de Arduino, C++ e Python
-* Apaixonado por tecnologia desde a a infância 
-* Tenho mais projetos iniciados do que projetos concluídos
-* Gatos costumam aparecer nos meus commits, direta ou indiretamente
+* Ex-professor de Arduino, C++ e Python
+* Apaixonado por tecnologia desde criança
+* Gosto tanto de hardware quanto de software
+* Tenho mais projetos iniciados do que tempo para finalizar todos eles
+* Tenho gatos e eles frequentemente participam do processo de desenvolvimento
 
 ---
 
 ## Filosofia
 
 ```python
-while True:
-    aprender()
-    construir()
-    automatizar()
+while curiosity:
+    learn()
+    build()
+    automate()
 ```
 
-Porque a melhor forma de aprender uma tecnologia é encontrar um problema interessante e construir algo para resolvê-lo.
+A melhor forma de aprender uma tecnologia é encontrar um problema interessante e construir algo para resolvê-lo.
