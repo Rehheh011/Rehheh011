@@ -18,6 +18,15 @@ Mas a verdade é que sempre fui atraído por projetos que misturam software e ha
 
 Hoje exploro bastante automação com **n8n**, modelos locais de IA, agentes autônomos e arquiteturas distribuídas. Quando não estou desenvolvendo alguma API, provavelmente estou montando um novo projeto com ESP32, criando uma automação desnecessariamente complexa ou testando alguma tecnologia que achei interessante às 2 da manhã.
 
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+
 ---
 
 ## O que eu construo
