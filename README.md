@@ -28,7 +28,7 @@ Infra        Docker • Linux • Git • Kubernetes
 Automation   n8n • APIs • Workflows • AI Agents
 AI           Ollama • LLMs Locais • RAG
 Mobile       Flutter • Dart
-Embedded     ESP32 • Arduino • C++ • MicroPython
+Embedded     ESP32 • RaspberryPi • Arduino • C++ • MicroPython
 ```
 
 ---
